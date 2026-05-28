@@ -1,4 +1,4 @@
-<img width="284" height="434" alt="image" src="https://github.com/user-attachments/assets/c41330cf-f8b9-4cb5-9fb1-c183f18c392e" />** 마트 계산대 **
+** 마트 계산대 **
 
 ```# -*- coding: utf-8 -*-
 """장바구니계산_재고와매출관리_260402.ipynb
